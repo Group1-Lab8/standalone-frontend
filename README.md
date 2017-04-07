@@ -1,1 +1,2 @@
-# starter-standalone2
+# starter-standalone
+Starter for lab 8
